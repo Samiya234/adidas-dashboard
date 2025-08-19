@@ -1,6 +1,22 @@
-Adidas Sales Dashboard 📊👟
+# Adidas Dashboard
 
-An interactive sales analytics dashboard built with Python, Streamlit, Pandas, and Plotly.
-The app provides insights into Adidas sales performance across retailers, states, time periods, and regions, with interactive charts and downloadable CSV reports.
+This project is an interactive dashboard built with **Streamlit** and **Plotly Express** to visualize Adidas sales data.
 
-🌐 Live Demo: Adidas Dashboard
+## 🚀 Live App  
+Check out the live dashboard here:  
+👉 [Adidas Dashboard](https://adidas-dashboard-w2d4pv7adcctju2rakecxp.streamlit.app/)
+
+## 📦 Requirements  
+The app requires the following dependencies (already included in `requirements.txt`):  
+- streamlit  
+- pandas  
+- plotly  
+
+## ▶️ Running Locally  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/adidas-dashboard.git
+   cd adidas-dashboard
+
+
+
